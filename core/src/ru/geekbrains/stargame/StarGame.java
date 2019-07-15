@@ -76,5 +76,4 @@ public class StarGame implements ApplicationListener {
 	@Override
 	public void resume() {
 	}
-
 }
